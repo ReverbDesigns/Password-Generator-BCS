@@ -35,7 +35,7 @@ function makePass() {
 
 
 
-//below two functions are supposed to copy to clipboard, no dice there
+//trouble with copy function for time being
 function Copy() {
     document.getElementById("results").select();
     document.execCommand("copy");
