@@ -12,3 +12,8 @@ You may choose lowercase, uppercase, numeric, and/or special characters.
 
 You will be selecting the length of the password.
 
+hosted version: https://reverbdesigns.github.io/Password-Generator-BCS/
+
+git repo: https://github.com/ReverbDesigns/Password-Generator-BCS.git
+
+ ![index screenshot](./Assets/images/index1.png)
